@@ -41,6 +41,6 @@ The main purpose of this assignment is to gain a rough sense of where different 
 
 ## Resources
 This folder includes everything you need to do this assignment:
-* data from the experiment (	assignment-one-impressions.csv)
-* the headlines being tested (assignment-one-heds.csv)
+* data from the experiment (headline-experiment-impressions.csv)
+* the headlines being tested (headline-experiment-heds.csv)
 * code for conducting the analysis and generating illustrations (headline-analysis-example.R.ipynb)
