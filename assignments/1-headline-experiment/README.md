@@ -26,7 +26,7 @@ Your essay should include:
 * a paragraph **describing the experiment design**, including the intervention being tested, the outcome measures being used, and how many participants were included.
 * a paragraph **summarizing the findings**. It should summarize the outcome variable, the means for each condition, and include a statement of the effect size.
 * a paragraph that **suggests a course of action**, contextualizing the findings in a way that the organization would normally think about, such as the payoff per thousand people who see the headline. Think about whether the result could inform future headline writing. Make sure to reflect on the limitations of the sample, which is drawn from the Upworthy's homepage.
-* include a **table of results** and an **illustration of the average treatment effect**. You could (a) show the effect with error bars or (b) show fitted(predicted) values for each condition, with error bars for the treatment (color). If you show fitted values, document details of any covariates(predictors) used to generate the fitted values (such as weekend). 
+* include a **table of results** and an **illustration of the average treatment effect**. Show the effect with error bars, and update the labels so it's clear what the effect is and which headlines are being described.
 * a paragraph that builds on this finding in the attempt to **convince Upworthy to do more testing** with headlines and in the organization.
 
 The assignment can be submitted via Canvas.
