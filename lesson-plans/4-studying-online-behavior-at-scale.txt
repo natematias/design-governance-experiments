@@ -1,0 +1,29 @@
+1. (3 minute) intro to the day's topic
+  - SLIDES HERE
+
+2. (5 minutes) Class reminders (SLIDES)
+   - Partner selection (doublecheck deadline)
+   - Complete the survey - it's graded pass/fail
+   - Stay after if you joined late
+
+3. (20) Discussing the Columbia Journalism Review article
+     https://archives.cjr.org/feature/the_king_of_content.php
+   - Break into groups of three and take 5 minutes to identify 3 big claims and one big question you have about the paper
+     - Bonus points if you can spot the humblebrag
+   - Big claims
+     - SPOT THE HUMBLEBRAG: "We approach it from a place of humility from the outset"
+     - filter bubble
+     - you’re not making the news more interesting, you’re making the news sound more interesting
+     - curators & testers vs creators
+     - "The gut is the best way to find the kind of emotional stories that travel" <- but they also say they're testing...
+     -  "the most easily shared articles were ones that aroused feelings—in a positive way, such as awe, or a negative one, such as anger or anxiety"
+     - Curiosity gap came from George Lowenstein
+   - Big questions
+     - Can a company succeed purely on promotion and packaging?
+     - Are they making decisions based on scientific literature, test results, or their gut? Are they confirming or disconfirming theories?
+
+4. (20) Online controlled experiments at large scale...
+   - Why was Bing able to do so many experiments in such a short period?
+   - Discussion about Campbell quote
+
+5. (10) Answer questions about assignment

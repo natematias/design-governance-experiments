@@ -1,0 +1,11 @@
+# 3: How Experiments Work
+
+Goals: 
+- familiarize students with CoCalc
+- review how experiments work
+- help students self-identify if they need to do statistics followup
+
+1. (5 mins) Welcome students and do another round of intros
+2. (30 mins) review how experiments work
+3. (15-20 mins) get CoCalc to work
+4. (10 minutes) Explain the assignment

@@ -1,5 +1,6 @@
 # JNM Additions
 *.rproj
+*.swp
 
 # History files
 .Rhistory

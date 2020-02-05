@@ -1,0 +1,13 @@
+First class
+
+1. Introduce myself (initial slides)
+2. Introductions:
+  - Students face their neighbor
+  - Share your name, major, and an experiment that intrigued you
+  - Report back your neighbor's name, major, and interests
+3. JNM: Say something about the topic (slides)
+4. Spectrogram:
+  - Initial question: "Winter is my favorite season"
+  - Questions from slides on testing and tech
+5. Summarize how the course works
+6. Answer questions
