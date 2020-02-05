@@ -6,7 +6,7 @@ The Great Backyard Bird Count is often a first step for people who continue on t
 This message is an email sent to people after they complete the Great Backyard Bird Count.
 
 * Each team will be assigned to send a promotion either to [FeederWatch](https://feederwatch.org) or [eBird](https://ebird.org).
-* Look at the example of last year's follow-up email
+* Look at the [example of last year's follow-up email](GBBC-example-email-2019.png)
 * Read this article on the reasons people participate in citizen science:
   * West, S. E., & Pateman, R. M. (2016). [Recruiting and retaining participants in citizen science: What can be learned from the volunteering literature?](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.8/). Citizen Science: Theory and Practice. (pay particular attention to the section on sustained participation)
 * Create a list of possible ⬆️ *promoting pressures* and ⬇️ *inhibiting pressures* for someone to open the email, click a link, and sign up for a further project.
