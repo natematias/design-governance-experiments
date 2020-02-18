@@ -1,5 +1,5 @@
 # Experiencing The Great Backyard Bird Count
-Designing and analyzing hih quality field experiments requires a thorough understanding of the context in which an experiment occurs. 
+Designing and analyzing high quality field experiments requires a thorough understanding of the context in which an experiment occurs. 
 
 In this assignment **in pairs**, you will participate in the Great Backyard Bird Count, record a timeline of your experience, and write about how the experience has changed your ideas for theories of change.
 
