@@ -19,6 +19,6 @@ In this assignment **in pairs** due on **Tuesday Feb 18 by 9pm**, you will parti
   * .... etc
 * Participate in the bird count, as instructed
 * Working with your partner, write no more than 600 words about:
-  * How well the experienced matched your expectations
+  * How well the experience matched your expectations
   * What new promoting and inhibiting pressures you have in mind
   * What promoting or inhibiting pressures you now think differently about
