@@ -1,5 +1,5 @@
-# Design Diagnosis Assignment (Week 3 assignment)
-** COMM4940 **
+# Design Diagnosis Assignment (Week 4 assignment)
+**COMM4940**
 
 Cornell University Department of Communication
 
@@ -25,8 +25,8 @@ The final assignment will be a 4-5 paragraph essay that:
       * (FeederWatch) signed up for the program
   * We will then conduct a statistical test of the effect of the intervention on the chance that they took a further action
 * Explains how sample size and effect size are related
-* Since we have a fixed sample size, explain the smallest effect we would have an 80% chance of observing, for the sample available for the study
-* Offer your prediction of the chance of observing a statistically-significant effect, based on what you know about the messaging we plan to use (see slides for Feb 26). Do you think it's likely that the true effect is as large as the minimum observable effect?
+* States the smallest effect we would have an 80% chance of observing, for the sample available for the study (since we have a fixed sample size)
+* Offers your prediction of the chance of observing a statistically-significant effect, based on what you know about the messaging we plan to use (see slides for Feb 26). Do you think it's likely that the true effect is as large as the minimum observable effect?
 
 ## Conducting the Analysis
 To conduct the analysis, you can use the code in [Starting Point - Binary Outcome.ipynb](Starting Point - Binary Outcome.ipynb). If you feel able, you can adjust the code to keep the sample size fixed and adjust the effect size. Or you can just run the code repeatedly until you find a close enough effect size.
