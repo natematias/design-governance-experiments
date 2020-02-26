@@ -31,6 +31,8 @@ The final assignment will be a 4-5 paragraph essay that:
 ## Conducting the Analysis
 To conduct the analysis, you can use the code in [Starting Point - Binary Outcome.ipynb](Starting Point - Binary Outcome.ipynb). If you feel able, you can adjust the code to keep the sample size fixed and adjust the effect size. Or you can just run the code repeatedly until you find a close enough effect size.
 
+If you prefer, you can also use the [power calculator on eGap](https://egap.shinyapps.io/Power_Calculator/), which supports some limited cases.
+
 ## Essential Information
 In 2019, roughly 18,670 people joined the Great Backyard Bird Count for the first time. If 2020 is similar, the sample size for each experiment will be 9,000. The treatment and control groups for eBird will each include 4,500 participants The treatment and control groups for FeederWatch will also include 4,500 participants each.
 
