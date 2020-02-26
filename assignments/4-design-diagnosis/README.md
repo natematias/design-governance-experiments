@@ -1,4 +1,4 @@
-# Design Diagnosis Assignment (Week 3 assignment)
+# Design Diagnosis Assignment (Week 4 assignment)
 **COMM4940**
 
 Cornell University Department of Communication
