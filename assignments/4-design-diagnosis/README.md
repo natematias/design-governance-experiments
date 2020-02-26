@@ -5,7 +5,7 @@ Cornell University Department of Communication
 
 J. Nathan Matias([@natematias](https://twitter.com/natematias))
 
-![power-curve.png]
+![power curve](power-curve.png)
 
 ## Deadline
 This assignment is due by 9pm on Tuesday, March 3rd and will be submitted/graded in pairs.
