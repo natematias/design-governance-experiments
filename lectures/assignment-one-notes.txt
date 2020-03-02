@@ -1,0 +1,14 @@
+- Correlation vs causation
+
+- How many tests before we can make strong claims?
+- What are we testing when we operationalize theories? (mind of the experimenter)
+- Confidence intervals & statistically-significant differences
+- Do we need a control group? (comparing to standard treatment or a placebo)
+- Does a larger sample make the experiment more representative? No.
+- Is it always best to increase the sample size?
+- Using OLS versus a series of t-tests
+- Percentage point versus percent difference
+
+- Reporting in terms of absolute numbers: In 2013, the company has almost 90 million monthly active users. If we show everyone this headline, it would receive roughly 9.5 million clicks, give or take 2.5 million
+- Reporting in terms of confidence interval: "If the organization was to show headline 1 to 1000 people, then a range of about 8 to 13 people would click on the article"
+- "Headlines 1 and 3 were significantly more likely to be clicked on by readers than headlines 2 and 4..."
