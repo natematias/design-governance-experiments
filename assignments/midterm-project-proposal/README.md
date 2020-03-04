@@ -65,7 +65,7 @@ Your project proposal should include the following details. Remember that the fi
   * Collectively write a short paper about your hypothesis and your method
   * Run the analysis on the confirmatory dataset
   * Update the paper to include the full analysis (this is what you submit for the final)
-* List of unanswered questions that Professor Matias can help answer
+* List of risks and unanswered questions that Professor Matias can help answer
 * References 
 
 ### Proposal Outline (if you're planning to design a new study)
@@ -99,5 +99,5 @@ Your project proposal should include the following details. Remember that the fi
   * Complete an experiment plan  (the thing you submit for the final)
   * Prototype and test any required software
   * ...
-* List of unanswered questions that Professor Matias can help answer
+* List of risks and unanswered questions that Professor Matias can help answer
 * References 
