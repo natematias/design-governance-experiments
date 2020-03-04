@@ -6,7 +6,7 @@ Cornell Department of Communication
 
 J. Nathan Matias ([@natematias](https://twitter.com/natematias))
 
-The midterm on March 24th will be a two-part midterm ([details here](https://github.com/natematias/design-governance-experiments/tree/master/assignments/midterm-project-proposal)). The first part will involve a team project proposal (teams of four). The second part will be a proposal for the **personal essay** in the course. You will have a chance to submit a draft essay proposal later.
+The midterm on March 24th will be a two-part midterm ([details here](https://github.com/natematias/design-governance-experiments/tree/master/assignments/midterm-project-proposal)). The first part will involve a team project proposal (teams of four). The second part will be a proposal for the **personal essay** in the course. You will have a chance to submit a draft essay proposal later. Your assignment for March 10th is to get started on your project proposal.
 
 For the project proposal assignment, **due March 10th at 9pm**, you need to:
 * Find an initial team of 4 people
