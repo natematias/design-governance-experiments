@@ -1,6 +1,6 @@
 # Final Project Proposal (Midterm Assignment)
 
-**COMM 49490: The Design and Governance of Field Experiments**
+**COMM 4940: The Design and Governance of Field Experiments**
 
 Cornell Department of Communication
 
