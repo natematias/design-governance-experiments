@@ -1,6 +1,8 @@
 # JNM Additions
 *.rproj
 *.swp
+assignments/upworthy-archive-project/*.csv
+
 
 # History files
 .Rhistory
