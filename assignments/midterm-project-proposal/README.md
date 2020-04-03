@@ -11,12 +11,12 @@ J. Nathan Matias ([@natematias](https://twitter.com/natematias))
 ### Part One: Project Proposal
 The first part of the midterm is a project proposal that will be submitted by the group. This will be half of your midterm grade.
 
-The purpose of your project proposal is to provide your team a chance to formalize how you plan to approach the project you take on, to describe the major parts of the project, and to craft an initial timeline. A draft **Google Doc** of the proposal is due by **Tuesday, April 14th at 9pm** and the full proposal will be due by **Tuesday, April 19th at 9pm** .
+The purpose of your project proposal is to provide your team a chance to formalize how you plan to approach the project you take on, to describe the major parts of the project, and to craft an initial timeline. The full proposal is due by **Tuesday, April 14th at 9pm**.
 
 I will send each team an empty Google Doc over slack.
 
 ### Part Two: Final Essay Proposal
-The second part of the midterm is a *personal* three-paragraph proposal due **April 19th at 9pm** for the essay that you will individually write as part of your final. The final essay will be a 1200 - 1500 word essay that unpacks or makes an argument about one of the topics we have explored in class, in relation to the experiment that you developed with your team. You can pick anything from the syllabus as a starting point (or discuss others with me). For example, possible topics include:
+The second part of the midterm is a *personal* three-paragraph proposal due **April 28th at 9pm** for the essay that you will individually write as part of your final. The final essay will be a 1200 - 1500 word essay that unpacks or makes an argument about one of the topics we have explored in class, in relation to the project that you developed with your team. You can pick anything from the syllabus as a starting point (or discuss others with me). For example, possible topics include:
 * Experimentation systems
 * Audits & Accountability
 * Research Transparency & Privacy
@@ -25,6 +25,7 @@ The second part of the midterm is a *personal* three-paragraph proposal due **Ap
 * Manipulation
 * Ethics oversight
 * Scientific Explanation & Description
+* Interpreting, Using, and Misusing Experiment Results
 * Advancing Science and Pragmatic Knowledge together
 * ...etc...
 
