@@ -7,7 +7,7 @@ J. Nathan Matias([@natematias](https://twitter.com/natematias))
 ## Deadline
 This assignment is due by 9pm on Tuesday, April 21 and will be submitted/graded by teams.
 
-# Assignment
+## Assignment
 For this team assignment, conduct and report an analysis of the effect of **using a number** in headlines, using the code and data provided in the following workshops:
 
 * The workshop on [asking questions with the Upworthy Arvchive](https://github.com/natematias/design-governance-experiments/blob/master/lectures/Lecture%2015%20-%20Asking%20Questions%20of%20the%20Upworthy%20Archive.pdf)
