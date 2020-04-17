@@ -11,6 +11,7 @@ This assignment is due by 9pm on Tuesday, April 21 and will be submitted/graded 
 For this team assignment, conduct and report an analysis of the effect of **using a number** in headlines, using the code and data provided in the following workshops:
 
 * The workshop on [asking questions with the Upworthy Arvchive](https://github.com/natematias/design-governance-experiments/blob/master/lectures/Lecture%2015%20-%20Asking%20Questions%20of%20the%20Upworthy%20Archive.pdf)
+  * [Code here](https://github.com/natematias/design-governance-experiments/tree/master/assignments/upworthy-archive-project)
 * The workshop on meta-analysis:
   * [Slides here](https://github.com/natematias/design-governance-experiments/blob/master/lectures/Lecture%2017%20-%20Using%20Fixed%20Effects%20Models%20for%20Meta%20Analysis.pdf)
   * [Code here](https://github.com/natematias/design-governance-experiments/blob/master/lecture-code/lecture-17-meta-analysis.R.ipynb)
