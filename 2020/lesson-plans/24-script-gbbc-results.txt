@@ -1,0 +1,7 @@
+Receiving data from a field experiment is a magical moment. You've found a research partner, imagined possible interventions, read the scientific literature, proposed study designs, re-designed your study based on conditions in the field, and put it out into the world. Then, months or even years after the first idea, you get back the data. It's time to find out the answer and run the statistical tests in your pre-analysis plan.
+
+Our class has reached that moment today. In February and March, we worked with the Cornell Lab of Ornithology to design a study that tests ways to increase involvement in citizen science. More than 9,600 people participated. While we won't receive all of the outcome measures until after the semester, we have full results on the effect of email subject lines. We'll wait to communicate the results publicly or to study participants until after the full findings are available.
+
+In today's announcement, I've included a link to the pre-analysis plan and a PDF of a jupyter notebook analyzing results from the Great Backyard Bird Count experiment. Before class, take a few minutes to review the plan and read the analysis.
+
+Good work everyone and see you in class!

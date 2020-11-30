@@ -1,0 +1,8 @@
+Have you ever noticed how small changes in perspective can yield a very different picture? That's especially true of kaleidoscopes, where rotating the the kaleidoscope creates infinite variations on the same objects. In this wedding kaleidoscope, two people can look from opposite sides at a continuously unfolding pattern of light and color.
+
+That variation creates beauty - in art. In statistics, that can be a problem. Statistics are supposed to give us reliable, repeatable knowledge. But when our models are too specific, or when we keep testing hypotheses until we find what we're looking for, our findings might fail to replicate in new samples and new experiments. When we tilt the kaleidoscope of our data just slightly, everything we thought was true might be less certain.
+
+Today's class and example code introduces three idas for improving the reliability of scientific claims:
+* First, we'll review the idea of exploratory versus confirmatory research
+* Second, in registered reports, researchers submit their analysis for peer review before collecting or receiving final data
+* Third, in cross-validation, researchers test their hypotheses on multiple datasets, tilting the kaleidoscope over and over again

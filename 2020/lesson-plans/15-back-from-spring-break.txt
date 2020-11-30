@@ -1,0 +1,36 @@
+Hi everyone, welcome to our online chat version of COMM4940! If you're joining this evening, could you please add a comment and tell us where you are and what your timezone is?
+
+PS: I like to keep half of my screen open for Slack and the other half open to other webpages- you might find that helpful in our conversations if you're not already doing it.
+
+The plan for the chat is to talk about three main things:
+1) check in on everyone and see how you're doing
+2) review changes to the class, which will help me learn about any rough edges in the syllabus and update the FAQ.
+3) talk about class projects and next steps
+
+How is everyone doing? I'm here in Ithaca and am keeping safe. Although I have family who are doctors, no one has gotten sick enough to seek an official diagnosis yet. I'm grateful for that.
+
+How is everyone feeling about your class load, time, grades, and capacity to actually finish the semester, now that you've heard back from faculty about how we're taking our classes online?
+
+Next up: let's talk about the changes to the class. Did anyone not get the announcement on Canvas summarizing the changes? And where there any questions you had about it?
+
+If you are interested in the optional statistics workshop next week, here's the whenisgood link (remember to add your timezone) https://whenisgood.net/nxte4y7
+
+@here ok, let's talk about final projects now. Some of you were already planning to work with the Upworthy Archive. Others might need to shift focus. Can each of you share:
+- whether you've kept in touch with your team or need to re-connect?
+- what you're thinking about your projects?
+
+For those of you who haven't yet reconnected, contacting your team-mates soon will be important for two reasons:
+- you'll want to find out who's still able to take the class and what their time-zones are (in case you need to adjust the team for practical reasons)
+- the project proposal is due next Tuesday, April 14
+
+Any other questions about final projects and teams? When you do catch up, I encourage you to prioritize conversations about how you're going to collaborate, alongside a discussion of what you plan to propose. Remember that not everyone may have access to google docs or even email.
+
+Final project proposals, as well as weekly project updates should be submitted to me via a CoCalc document (text file or Markdown file). If your team does all have access to google docs, I'll need everyone to confirm it to me personally in your team's slack, and then I'll create a Google Drive folder for you to store your resources and share your updates with me.
+
+@here okay, your last task in the remaining time is to share one or two things that are inspiring you or getting you through the pandemic. It can be a piece of music, a person, or a personal ritual, a belief, or a web link. It can be silly or serious; it's up to you!
+
+=======
+
+Norms for online chat text:
+- it's okay to all type at once
+- 

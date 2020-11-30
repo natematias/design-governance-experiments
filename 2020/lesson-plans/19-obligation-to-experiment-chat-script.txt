@@ -1,0 +1,23 @@
+Hi everyone, welcome to our third week of online learning! I expect that last week was substantially challenging, with a lot of midterms and other assignments due (including one for this class). To start out, let's share:
+- one thing that's working well for you so far (not just in this class)
+- one things that you're hoping to improve before the end of the semester
+
+Here's what I hope to achieve in today's class:
+- discuss the role of experiments in democracy, as explored in Ann Oakley's historical review and the article my collaborators and I authored on the Obligation to Experiment.
+- review any questions about Tuesday's assignment
+- revisit and review the assignment for next Tuesday, which is your personal essay proposal (the second half of the "midterm")
+
+To start, let's talk about Ann Oakley's article about using experiments to test social policies. It's important to remember that,in parallel to Oakley's history,  randomized trials weren't even the standard of evidence in medicine until the second half of the 20th century. But that change did happen. Why do you think it became the standard for medicine but not social policy? (GREAT QUESTION)
+
+(PS, Harry Gold at Cornell was one of the founders of clinical pharmacology https://www.nytimes.com/1972/04/22/archives/harry-gold-a-heart-specialist-and-digitalis-pioneer-is-dead.html)
+
+Thanks for sharing! One thing I want to add is that Oakley's article ends around the beginning of the 2000s. A lot has changed since then, most notably:
+
+1. the tech industry
+2. a resurgence of interest in causal inference in academia, especially among development economists. It's now much more common for ideas to be tested through experimentation. But that wasn't an expected outcome in the early 2000s
+
+So let's move on to The Obligation to Experiment. I think this is actually the first thing you've seen in the class that I wrote; try to set that thought aside while we talk about it, lol. Was there a part of it that you think would be especially helpful to discuss, or a followup question you might have?
+
+Any further comments or questions on the Obligation to Experiment? So far, we don't require companies to test their products. Would you change that? (it's okay to disagree with me - I'm not sure many in the tech industry agree with me <grin>)
+
+okay, last question: what else should I be putting in my hot chocolate this week? <grin>
