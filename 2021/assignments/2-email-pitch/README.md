@@ -8,10 +8,10 @@ Background: [The Great Backyard Bird Count](https://www.birdcount.org/) is often
 * Look at the example of [the 2019 follow-up email](GBBC-example-email-2019.png)
 * Read this article on the reasons people participate in citizen science:
   * West, S. E., & Pateman, R. M. (2016). [Recruiting and retaining participants in citizen science: What can be learned from the volunteering literature?](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.8/) Citizen Science: Theory and Practice. (pay particular attention to the section on sustained participation)
-  * To brainstorm, create a list of no more than 10 possible ⬆️ promoting pressures and ⬇️ inhibiting pressures for someone to open the email, click a link, and sign up for a further project. 
-    * Changing the headline / email subject
-    * Changing the text and layout of the Call to Action
-    * To help your own thinking, on a scale of 1 to 10, identify how confident you are, based on the state of scientific knowledge, that this pressure will be influential
+* To brainstorm, create a list of no more than 10 possible ⬆️ promoting pressures and ⬇️ inhibiting pressures for someone to open the email, click a link, and sign up for a further project. 
+  * Changing the headline / email subject
+  * Changing the text and layout of the Call to Action
+  * To help your own thinking, on a scale of 1 to 10, identify how confident you are, based on the state of scientific knowledge, that this pressure will be influential
 * Create two pairs of headlines/subjects based on those pressures:
   *  One that you think is highly likely to be influential, based on the state of science
   *  One that you think could help advance the state of science
