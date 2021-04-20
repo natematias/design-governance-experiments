@@ -1,7 +1,7 @@
 # SOC412 Assignments and Example Code
 SOC 412: Designing Field Experiments at Scale. Public repository for assignments and example code.
 
-**I taught this class at Princeton University in 2017 and 2018. I have taught the course in the spring at Cornell since 2020.**
+**I taught this class at Princeton University in 2018 and 2019. I have taught the course in the spring at Cornell since 2020.**
 
 All code and assignments are licensed under the [MIT License](LICENSE). Slides are available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/legalcode).
 
